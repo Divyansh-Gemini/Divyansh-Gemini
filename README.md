@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Divyansh-Gemini
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on ...
+- 📫 EMail: divyansh_gemini_bca20s1@jimsindia.org
+- 📫 Insta: @divyansh_gemini
