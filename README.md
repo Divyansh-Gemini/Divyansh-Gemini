@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyansh-Gemini
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning Flutter
 - 📫 EMail: divyanshgemini3232@gmail.com
 - 📫 Insta: @divyansh_gemini
 
