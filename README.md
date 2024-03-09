@@ -1,4 +1,4 @@
-# Hi 👋, My name is [Divyansh Gemini](https://github.com/Divyansh-Gemini)
+# Hi 👋, My name is [Divyansh Gemini](https://www.divyanshgemini.dev/)
 
 ## 💫 About Me:
 - 🎓 I'm a student pursuing MCA from VIT Vellore.
