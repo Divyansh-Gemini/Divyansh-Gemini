@@ -2,9 +2,9 @@
 
 ## 💫 About Me:
 - 🎓 I'm a student pursuing MCA from VIT Vellore.
-- 🌱 I'm currently learning Android App Development.
+- 🌱 I'm currently learning Android Jetpack.
 - 🤝🏼 I'm looking to collaborate on open-source & freelance projects.
-- 📸 I like photography.
+- 📸 I like to do photography.
 
 
 
