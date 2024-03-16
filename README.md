@@ -11,7 +11,7 @@
 ## 🛠️ My Tech Stack:
 <p align="center">
     <a href="https://www.divyanshgemini.dev/">
-        <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,py,git,github,firebase,html,css,js,react,tailwind,nodejs" alt="tech stack" />
+        <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,py,git,github,firebase,react,tailwind,nodejs" alt="tech stack" />
     </a>
 </p>
 
